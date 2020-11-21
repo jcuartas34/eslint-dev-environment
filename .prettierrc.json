@@ -1,0 +1,7 @@
+{
+    "trailingComma": "none",
+    "htmlWhitespaceSensitivity": "css",
+    "semi": true,
+    "quoteProps": "as-needed",
+    "singleQuote": false
+}
